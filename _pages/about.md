@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Print.com"
+title: "Prints.com"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-<font size = "3">I am selling 3D print.</font>
+<font size = "3">I am selling 3D prints.</font>
 
 
 **Interests:** 3D Prints
