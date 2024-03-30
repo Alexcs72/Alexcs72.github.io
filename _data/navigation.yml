@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: https://scholar.google.com/citations?hl=en&user=GuO4UhsAAAAJ
+  - title: "Home"
+    url: https://alexcs72.github.io
 
 #  - title: "Talks"
 #    url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Products"
+    url: /portfolio/
         
   - title: "News"
     url: /year-archive/
     
-  - title: "CV"
-    url: /files/caragea_cv_aug_2023.pdf
+#  - title: "CV"
+#    url: /files/caragea_cv_aug_2023.pdf
     
 #  - title: "Guide"
 #    url: /markdown/
