@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Doina's Homepage"
+title                    : "Prints.com"
 title_separator          : "-"
-name                     : &name "Doina Caragea"
-description              : &description "Doina Caragea, Ph.D."
-url                      : https://dcaragea.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name ""
+description              : &description "3D Prints"
+url                      : https://Alexcs72.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dcaragea/dcaragea.github.io"
+repository               : "Alexcs72/alexcs72.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Doina Caragea"
-  avatar           : "image001.png"
-  bio              : "Professor"
-  location         : "2177 Engineering Building"
-  employer         : "Kansas State University"
+  name             : "ACS"
+  avatar           : "IMG_8778.png"
+  bio              : "Prints.com"
+  location         : #"2177 Engineering Building"
+  employer         : #"Kansas State University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=GuO4UhsAAAAJ&hl=en&oi=ao"
-  email            : "dcaragea@ksu.edu"
+  googlescholar    : #"https://scholar.google.com/citations?user=GuO4UhsAAAAJ&hl=en&oi=ao"
+  email            : #"dcaragea@ksu.edu"
   researchgate     : #"https://www.researchgate.net/profile/Doina-Caragea"
   uri              : #"https://outlook.office365.com/calendar/published/a4b87dc8415744728a2c6f39540d434c@ksu.edu/254f0543c519472a8951e373d60067ce11004609704671248059/calendar.html"
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-6440-0914"
+  orcid            : #"https://orcid.org/my-orcid?orcid=0000-0002-6440-0914"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
